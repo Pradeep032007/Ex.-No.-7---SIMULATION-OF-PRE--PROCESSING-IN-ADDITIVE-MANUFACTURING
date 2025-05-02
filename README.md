@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/a5c396fd-9aa5-4763-9d78-61d0ff457a02)
+
+### Name:SUBASH B
+### Register Number:212224220108
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
